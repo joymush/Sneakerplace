@@ -6,7 +6,6 @@ body {
 }
 .Body {
     border: 2px solid purple;
-    border height: 100px;
 }
 .sidebar {
     float: right;
